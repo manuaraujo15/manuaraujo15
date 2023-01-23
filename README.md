@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuaraujo15&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/manuaraujo15/convoychat">
-  <img align="center" style="margin-left:5px;" src="https://github-readme-stats.vercel.app/api?username=manuaraujo15&show_icons=true&theme=radical" />
+  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=manuaraujo15&show_icons=true&theme=radical" />
 </a>
 
 
