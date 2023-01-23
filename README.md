@@ -20,7 +20,7 @@
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 
-  <img align="right" alt="manu" height="100" width="100" src="maanu.png">
+ // <img align="right" alt="manu" height="100" width="100" src="maanu.png">
 </div>
  
   ##
