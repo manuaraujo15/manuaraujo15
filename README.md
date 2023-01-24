@@ -1,10 +1,10 @@
 ## Oiii eu sou a Emanuele Araújo, técnica em informática e desenvolvedora júnior!
 
   <a href="https://github.com/manuaraujo15/convoychat">
-    <img align="left"  src="https://github-readme-stats.vercel.app/api?username=manuaraujo15&show_icons=true&theme=radical" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=manuaraujo15&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/manuaraujo15/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuaraujo15&show_icons=true&theme=radical&layout=compact" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuaraujo15&show_icons=true&theme=radical" />
   </a>
 
 ##
