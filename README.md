@@ -30,5 +30,5 @@
   
 </div>
 
-![Snake animation](https://github.com/manuaraujo15/manuaraujo15/blob/output/dist/github-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/manuaraujo15/manuaraujo15/blob/output/github-snake-dark.svg?palette=github-dark)
 
