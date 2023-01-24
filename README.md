@@ -1,7 +1,7 @@
 ## Oiii eu sou a Emanuele Araújo, técnica em informática e desenvolvedora júnior!
 <div>
   <a>
-    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=manuaraujo15&layout=compact&theme=radical" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api?username=manuwaka&layout=compact&theme=radical" />
   </a>
   <a href="https://github.com/manuaraujo15/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuaraujo15&layout=compact&show_icons=true&theme=radical" />
