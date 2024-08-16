@@ -1,4 +1,4 @@
-## Oiii eu sou a Emanuele Araújo, técnica em informática e desenvolvedora júnior!
+## Oii eu sou a Emanuele Araújo, bem vindo ao meu GitHub !
 <div>
   <a>
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=manuaraujo15&layout=compact&theme=radical" />
