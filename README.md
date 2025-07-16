@@ -2,7 +2,7 @@
 <div>
   <a>
     <img align="left"  src="https://github-readme-stats.vercel.app/api?username=manuaraujo15&layout=compact&theme=radical" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuaraujo15&show_icons=true&theme=radical" />
+    <img align="right" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=manuaraujo15&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=manuaraujo15&show_icons=true&theme=radical)" />
   </a>
   <a href="https://github.com/manuaraujo15/github-readme-stats">
     
